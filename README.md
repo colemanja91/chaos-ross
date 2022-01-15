@@ -16,6 +16,15 @@ This depends heavily on the MoviePY library, and it's dependencies.
 
 You'll need a set of _The Joy of Painting_ episodes to start with - the entire series is available for download on [the Internet Archive](https://archive.org/details/BobRossTheJoyOfPaintingS03). For best results, download at least one full season, and place them in a directory named `source_videos`.
 
+## Configuration
+
+The following parameters are available for configuration within `main.py`:
+
+* `INTERVAL`
+  + Determines how many seconds of content are pulled from each source video
+* `FILENAME`
+  + Set an output filename; default is a Heroku-style name
+
 ## Running
 
 Basic usage: 

@@ -8,6 +8,7 @@ from haikunator import Haikunator
 
 # CONFIG
 INTERVAL = 15  # Seconds for each segment
+FILENAME = Haikunator().haikunate()
 
 # Constants
 SPOILER_LOG = []
@@ -46,7 +47,7 @@ def next_clip(start, end):
 
 def create_video():
   # Generate random episode
-    filename = Haikunator().haikunate()
+    filename = FILENAME
 
     clips = []
     start = 0
