@@ -24,7 +24,7 @@ To randomly get a set of videos from the first five seasons, you can run the fol
 python3 get_bob.py
 ```
 
-This will download 20 videos to the `source_videos` directory. 
+This will download 13 (approx. 1 season) videos to the `source_videos` directory. 
 
 (The count of videos downloaded is configurable via the `MAX_EPISODES` parameter within the `get_bob.py` script).
 
