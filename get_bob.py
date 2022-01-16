@@ -5,7 +5,7 @@ from random import randint
 from json import load
 
 # CONFIG
-MAX_EPISODES = 20
+MAX_EPISODES = 13
 
 with open("tjop_manifest.json", "r") as fopen:
     SOURCE_EPISODES = load(fopen)["episodes"]
@@ -19,7 +19,7 @@ def run():
         episode = SOURCE_EPISODES[index]
         url = episode["url"]
 
-        os.system(f"wget {url} ./source_videos/")
+        os.system(f"wget -nc {url} ./source_videos/")
 
         del SOURCE_EPISODES[index]
 
