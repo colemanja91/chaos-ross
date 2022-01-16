@@ -4,6 +4,8 @@ The Bob Ross Randomizer (**Chaos Ross**) generates episodes of _The Joy of Paint
 
 You can use this for any set of input videos - the original use case of Bob Ross was just to introduce some happy little chaos to the world.
 
+Example output: https://youtu.be/weabM5KyvsA
+
 ## Setup
 
 _Recommended to use virtualenv for dependency management_
