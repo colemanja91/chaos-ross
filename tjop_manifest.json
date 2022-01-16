@@ -1,9 +1,69 @@
 {
   "episodes": [
     {
-      "url": "",
-      "season": 1,
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E01%20-%20Mountain%20Retreat.avi",
+      "season": 3,
       "episode_number": 1
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E02%20-%20Blue%20Moon.avi",
+      "season": 3,
+      "episode_number": 2
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E03%20-%20Bubbling%20Stream.avi",
+      "season": 3,
+      "episode_number": 3
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E04%20-%20Winter%20Night.avi",
+      "season": 3,
+      "episode_number": 4
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E05%20-%20Distant%20Hills.avi",
+      "season": 3,
+      "episode_number": 5
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E06%20-%20Covered%20Bridge.avi",
+      "season": 3,
+      "episode_number": 6
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E07%20-%20Quiet%20Inlet.avi",
+      "season": 3,
+      "episode_number": 7
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E08%20-%20Night%20Light.avi",
+      "season": 3,
+      "episode_number": 8
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E09%20-%20The%20Old%20Mill.avi",
+      "season": 3,
+      "episode_number": 9
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E10%20-%20Campfire.avi",
+      "season": 3,
+      "episode_number": 10
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E11%20-%20Rustic%20Barn.avi",
+      "season": 3,
+      "episode_number": 11
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E12%20-%20Hidden%20Lake.avi",
+      "season": 3,
+      "episode_number": 12
+    },
+    {
+      "url": "https://archive.org/download/BobRossTheJoyOfPaintingS03/Bob%20Ross%20-%20The%20Joy%20of%20Painting%20-%20S03E13%20-%20Peacful%20Waters.avi",
+      "season": 3,
+      "episode_number": 13
     }
   ]
 }
